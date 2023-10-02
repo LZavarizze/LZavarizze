@@ -34,33 +34,30 @@ Estou aberto a colaborações, discussões e novas oportunidades para crescer ju
 <h2>📈 Estatísticas do GitHub</h2>
 <p align="center">
   <a href="https://github.com/LZavarizze">
-    <img align="center" alt="LZavarizze-HTML" height="100" width="150" src= https://media.giphy.com/media/vEzWzSqe5e2Lzqskfi/giphy.gif alt="LZavarizze GitHub streak"/>
+    <img align="center" alt="LZavarizze-HTML" height="100" width="150" src= https://media.giphy.com/media/U2AMcXeZX3P5RLYCrY/giphy.gif alt="LZavarizze GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/lranacleto85">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lranacleto85&theme=dracula" alt="lranacleto85's GitHub Contribution"/>
+  <a href="https://github.com/LZavarizze">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LZavarizze&theme=dracula" alt="LZavarizze's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/lranacleto85"><img alt="lranacleto85's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lranacleto85&show_icons=true&count_private=true&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/lranacleto85"><img alt="lranacleto85's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lranacleto85&langs_count=8&layout=compact&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/LZavarizze"><img alt="LZavarizze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LZavarizze&show_icons=true&count_private=true&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/LZavarizze"><img alt="LZavarizze's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LZavarizze&langs_count=8&layout=compact&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Al lranacleto85's Graph](https://github-readme-activity-graph.vercel.app/graph?username=lranacleto85&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al LZavarizze's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LZavarizze&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
     </div>
 <div>
 <h2>📫 Como Chegar Até Mim</h2>
 <div> 
-  <a href="https://www.linkedin.com/in/lranacleto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lranacleto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCCzYykCUkSb0qxUDsiZWGoA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/leoramosanacleto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/leoanacleto85" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/leoanacleto85" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luisfzavarizze@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/luiszavarizze" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/zavarizze" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
 <div>
 <h3>🙏 Agradeço por visitar o meu perfil e por fazer parte dessa incrível comunidade de desenvolvedores.</h3> 
