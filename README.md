@@ -50,7 +50,7 @@ Estou aberto a colaborações, discussões e novas oportunidades para crescer ju
   <br/>
 </a>
 
-![Al LZavarizze's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LZavarizze&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al LZavarizze's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LZavarizze&custom_title=Al%20LZavarizze's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
     </div>
 <div>
 <h2>📫 Como Chegar Até Mim</h2>
