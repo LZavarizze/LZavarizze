@@ -24,6 +24,7 @@ Estou animado para aprender e contribuir para projetos incríveis.
   <img align="center" alt="LZavarizze-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="LZavarizze-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="LZavarizze-BootStrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="LZavarizze-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 <div>
 <h2>🚀 Objetivo</h2>
